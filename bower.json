@@ -1,0 +1,17 @@
+{
+  "name": "2d-chart-svg",
+  "authors": [
+    "Carlos Marcano <clmg1010@gmail.com>"
+  ],
+  "description": "2d chart library",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
